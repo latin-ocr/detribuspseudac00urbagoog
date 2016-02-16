@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detribuspseudac00urbagoog_0008.png"; bbox 0 0 2984 4982; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 534 1931 773 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 534 1931 773 1998">
+     <span class='ocr_line' id='line_1_1' title="bbox 534 1931 773 1998; baseline 0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 534 1931 773 1998; x_wconf 78' lang='lat' dir='ltr'><strong>PRAGENSI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1 2209 1217 2348">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1 2209 1217 2348">
+     <span class='ocr_line' id='line_1_2' title="bbox 1 2209 1217 2348; baseline 0.007 -46"><span class='ocrx_word' id='word_1_2' title='bbox 1 2227 2 2302; x_wconf 65' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_3' title='bbox 80 2243 314 2308; x_wconf 83' lang='lat' dir='ltr'>CLARISSIMO</span> <span class='ocrx_word' id='word_1_4' title='bbox 332 2243 558 2308; x_wconf 85' lang='lat' dir='ltr'>IUVENTUTIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 577 2245 627 2310; x_wconf 84' lang='lat' dir='ltr'><strong>Al)</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 645 2244 924 2309; x_wconf 82' lang='lat' dir='ltr'><strong>HUMANITATEM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 942 2209 1217 2348; x_wconf 79' lang='lat' dir='ltr'><strong>INFORMANDAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 438 2487 865 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 438 2487 865 2565">
+     <span class='ocr_line' id='line_1_3' title="bbox 438 2487 865 2565; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 438 2487 865 2565; x_wconf 80' lang='lat' dir='ltr'><strong>MODERATORI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 263 2832 1004 2920">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 263 2832 1004 2920">
+     <span class='ocr_line' id='line_1_4' title="bbox 263 2832 1004 2920; baseline 0.003 -24"><span class='ocrx_word' id='word_1_9' title='bbox 263 2855 278 2920; x_wconf 23' lang='grc' dir='ltr'><strong>Ι·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 301 2832 565 2898; x_wconf 85' lang='lat' dir='ltr'>STUDIORUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 587 2833 784 2898; x_wconf 81' lang='lat' dir='ltr'>MEORUM</span> <span class='ocrx_word' id='word_1_12' title='bbox 806 2832 1004 2899; x_wconf 83' lang='lat' dir='ltr'>FAUTORI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 496 3078 815 3128">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 496 3078 815 3128">
+     <span class='ocr_line' id='line_1_5' title="bbox 496 3078 815 3128; baseline 0.003 -2"><span class='ocrx_word' id='word_1_13' title='bbox 496 3078 815 3128; x_wconf 62' lang='lat' dir='ltr'>LIBERALISSIMO„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1496 4982">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1496 4982">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1496 4982; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1496 4982; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
